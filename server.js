@@ -41,3 +41,15 @@ app.listen(PORT, () => {
  
 // // arcanthedeveloper  ID
 // // WgN5aJhcTq8rH0o0  Password
+
+// echo "# MongodbDatabase" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin https://github.com/SaturnWave/MongodbDatabase.git
+// git push -u origin main
+
+// git remote add origin https://github.com/SaturnWave/MongodbDatabase.git
+// git branch -M main
+// git push -u origin main
